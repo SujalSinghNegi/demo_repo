@@ -1,2 +1,3 @@
 # demo_repo
-this is my first git repository
+This is my first git repository
+Author- Sujal Singh Negi
